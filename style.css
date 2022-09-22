@@ -1,0 +1,36 @@
+section {
+  width: 40%;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid #999;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px #ccc;
+  text-align: center;
+}
+
+section h1 {
+  text-align: center;
+}
+
+section button {
+  padding: 20px;
+  width: 35%;
+  border: 1px solid #999;
+  background: #f5f5f5;
+  color: #000;
+  text-transform: uppercase;
+}
+
+section button:hover {
+  cursor: pointer;
+  background: #ccc;
+}
+
+section #res {
+  width: 32%;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  background: #ccc;
+  color: blue;
+}
